@@ -1,5 +1,4 @@
-# The Zuktorial
-#### with fingerpickerguitar
+# The Zuktorial with fingerpickerguitar
 
 Learn how to `code` with these three simple steps 9 out of 10 university CS professors don't know!
 
